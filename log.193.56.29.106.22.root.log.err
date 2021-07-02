@@ -1,0 +1,13 @@
+Connecting to 193.56.29.106 port 22
+We claim version: SSH-2.0-PuTTY_Release_0.68
+Server version: SSH-2.0-OpenSSH_8.4p1 Debian-3
+Using SSH protocol version 2
+Doing ECDH key exchange with curve Curve25519 and hash SHA-256
+Host key fingerprint is:
+ssh-rsa 2048 b1:24:ae:14:c3:68:0d:63:62:89:d5:f4:3c:71:cf:bd
+Initialised AES-256 SDCTR client->server encryption
+Initialised HMAC-SHA-256 client->server MAC algorithm
+Initialised AES-256 SDCTR server->client encryption
+Initialised HMAC-SHA-256 server->client MAC algorithm
+Using username "root".
+Sent password
